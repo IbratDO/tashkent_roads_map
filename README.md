@@ -1,5 +1,7 @@
 # tashkent_roads_map
 Tashkent roads polygon
+This project is made in the Geospatial Data Analysis sphere during my internship.
+
 This html file is the result of the private project.
 In this html, you can see 3 categorized roads:
 - Tashkent halqa yo'llari
